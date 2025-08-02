@@ -1,0 +1,23 @@
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif;line-height:1.5;color:#1f2937;background:#f9fafb;}
+.container{max-width:900px;margin:0 auto;padding:1rem 1.25rem;}
+.site-header{background:#0f172a;color:#fff;padding:1rem 0;margin-bottom:1rem;}
+.logo{font-weight:700;font-size:1.5rem;}
+.tagline{margin-top:0.25rem;font-size:0.9rem;opacity:0.85;}
+.hero{padding:1rem 0;}
+.hero h1{font-size:2.2rem;margin-bottom:0.5rem;}
+.hero p{margin:0.75rem 0;font-size:1.05rem;}
+.coming-soon{font-weight:600;margin-top:1rem;font-size:1.1rem;display:inline-block;background:#fff3cd;color:#856404;border:1px solid #ffeeba;border-radius:4px;padding:0.4rem 0.75rem;}
+.about{margin-top:2rem;}
+.about h2{margin-bottom:0.5rem;font-size:1.6rem;}
+.about ul{margin-top:0.5rem;list-style:disc;padding-left:1.25rem; }
+.partners{margin-top:2rem;}
+.partner-logos{display:flex;gap:1rem;flex-wrap:wrap;margin-top:0.5rem;}
+.placeholder{flex:1 1 120px;background:#e2e8f0;border:1px dashed #94a3b8;border-radius:4px;padding:0.75rem;text-align:center;font-size:0.9rem;color:#475569;}
+.notify{margin-top:2rem;}
+.email-form{display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:0.5rem;}
+.email-form input{flex:1 1 220px;padding:0.65rem;border:1px solid #cbd5e1;border-radius:4px;font-size:1rem;}
+.email-form button{padding:0.65rem 1rem;border:none;border-radius:4px;background:#0f172a;color:#fff;cursor:pointer;font-weight:600;}
+footer{margin-top:3rem;padding:2rem 0;font-size:0.85rem;color:#64748b;}
+footer a{color:#0f172a;text-decoration:none;}
+.small{margin-top:0.5rem;opacity:0.8;}
